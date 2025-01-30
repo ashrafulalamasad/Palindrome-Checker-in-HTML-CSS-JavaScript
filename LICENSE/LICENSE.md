@@ -22,7 +22,7 @@ The owner of this software reserves the right to **pursue civil and/or criminal 
 ## 📞 **Contact Information**  
 For permissions, collaborations, or legal inquiries, please contact:  
 - 🌍 Website: [https://ashrafulalam.me](https://ashrafulalam.me)  
-- 📧 Email: <a href="mailto:ashrafulalamyt@gmail.com">ashrafulalamyt@gmail.com</a> 
+- 📧 Email: [Email Ashraful](mailto:ashrafulalamyt@gmail.com)
 - 🏆 GitHub: [https://github.com/ashrafulalamasad](https://github.com/ashrafulalamasad)  
 - 📌 Facebook: [https://facebook.com/ashrafulalam005](https://facebook.com/ashrafulalam005)  
 - 📷 Instagram: [https://www.instagram.com/ashrafulalam005](https://www.instagram.com/ashrafulalam005)  
