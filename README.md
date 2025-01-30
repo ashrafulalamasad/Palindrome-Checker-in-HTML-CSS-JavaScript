@@ -60,12 +60,10 @@ Whether you are a student learning programming or just love challenges, this app
 
 ---
 
-<!-- # Demo Video
+# Demo Video
 
-<video width="320" height="240" controls>
-  <source src="https://github.com/ashrafulalamasad/Palindrome-Checker-in-HTML-CSS-JavaScript/blob/main/assets/videos/palindromedemo.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video> -->
+[![Palindrome Checker Video](https://img.youtube.com/vi/ZJXIjuJwMBw/0.jpg)](https://youtu.be/ZJXIjuJwMBw?si=Wy5oeDxxpKOaN3t3)
+
 
 # Screenshots 🖼️
 
