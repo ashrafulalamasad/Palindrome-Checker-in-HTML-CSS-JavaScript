@@ -2,37 +2,30 @@
 
 ## Overview 🔍
 
-**Hey there, I’m Ashraful Alam from Chittagong, Bangladesh!**  
-I am a passionate software developer. This is a **Palindrome Checker** app created using **HTML, CSS, and JavaScript**. It allows users to check if a given word or phrase is a palindrome, i.e., it reads the same backward as forward, ignoring spaces, punctuation, and capitalization.
+**Hey there! I’m Ashraful Alam from Chittagong, Bangladesh!**  
+I’m a passionate software developer with a keen interest in creating simple, efficient, and user-friendly applications. This project is a **Palindrome Checker** built using **HTML**, **CSS**, and **JavaScript**. It allows users to check if a given word or phrase is a palindrome (i.e., it reads the same backward and forward) while ignoring spaces, punctuation, and capitalization.
 
-You can input any word or phrase, and the app will tell you whether it’s a palindrome or not. I’ve built this app with a clean and minimalistic design for a better user experience.
-
-Feel free to explore the project and share your feedback!
-
-## Credit 🙌
-
-**Developer:** Ashraful Alam  
-**Institution:** International Islamic University Chittagong (IIUC)  
-**Time:** July/2023 - Present
+Whether you are a student learning programming or just love challenges, this app is the perfect tool for quickly checking if your input is a palindrome!
 
 ---
 
 ## Features ✨
 
-- **Simple and intuitive user interface.**
-- **Palindrome detection** for words and phrases.
-- **Real-time checking** as you type.
-- **Responsive design** for both desktop and mobile devices.
-- **Clear results** with easy-to-understand messages.
-- **Supports case-insensitivity** and ignores non-alphanumeric characters.
-  
+- **Simple and intuitive UI:** Designed to be minimal and user-friendly.
+- **Real-time palindrome detection:** The app checks if the word/phrase is a palindrome as you type.
+- **Responsive design:** Fully optimized for desktop, tablet, and mobile devices.
+- **Supports case insensitivity:** Ignores capitalization.
+- **Punctuation and space handling:** Automatically disregards punctuation marks and spaces in the input.
+- **Clear result messaging:** Displays the palindrome check results with easy-to-understand feedback.
+
 ---
 
 ## Upcoming Features 🚀
 
-- **Enhancing UI/UX** for a more interactive experience.
-- **Add language support** to check palindromes in multiple languages.
-- **Save and load previous inputs** to compare palindrome results.
+- **Improved UI/UX design:** For an even more interactive and engaging experience.
+- **Language support:** Add multi-language support to check palindromes in different languages.
+- **History and comparison:** Enable users to save and compare previous palindrome results.
+- **Shareable results:** Allow users to easily share their palindrome results on social media or with friends.
 
 ---
 
@@ -44,16 +37,16 @@ Feel free to explore the project and share your feedback!
 2. **Enter a word or phrase** in the input field.
 3. The app will **automatically check** whether the input is a palindrome and display the result below.
 4. **Clear** the input field to try another word or phrase.
-  
-### You can also play the game by downloading the APK to play offline or by clicking the link to play online. Its below 👇 at the installation and setup part.
+
+### You can also play the game by downloading the APK to play offline or by clicking the link to play online. See below for the links.
 
 ---
 
 ## Programming Languages Used 💻
 
-- **HTML5**
-- **CSS3**
-- **JavaScript**
+- **HTML5:** The backbone structure of the app.
+- **CSS3:** To create a visually appealing and responsive layout.
+- **JavaScript:** For the logic behind palindrome detection.
 
 ---
 
@@ -71,16 +64,32 @@ Feel free to explore the project and share your feedback!
 
 ---
 
+# Demo Video
+
+<video width="320" height="240" controls>
+  <source src="https://github.com/ashrafulalamasad/Palindrome-Checker-in-HTML-CSS-JavaScript/blob/main/assets/videos/palindromedemo.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+
+
 ## Screenshots 🖼️
 
 ### Before Starting:
 
-![Before Starting](https://github.com/ashrafulalam005/palindrome-checker/blob/main/necessary%20img/before-starting.png)
+![Before Starting](https://github.com/ashrafulalamasad/Palindrome-Checker-in-HTML-CSS-JavaScript/blob/main/assets/images/before.png)
 
 ### Palindrome Detected:
 
-![Palindrome Detected](https://github.com/ashrafulalam005/palindrome-checker/blob/main/necessary%20img/palindrome-detected.png)
+![Palindrome Detected](https://github.com/ashrafulalamasad/Palindrome-Checker-in-HTML-CSS-JavaScript/blob/main/assets/images/palindrome.png)
 
 ### Non-palindrome Detected:
 
-![Non-palindrome Detected](https://github.com/ashrafulalam005/palindrome-checker/blob/main/necessary%20img/non-palindrome.png)
+![Non-palindrome Detected](https://github.com/ashrafulalamasad/Palindrome-Checker-in-HTML-CSS-JavaScript/blob/main/assets/images/not%20palindrome.png)
+
+---
+
+
+
+## License 📜
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
