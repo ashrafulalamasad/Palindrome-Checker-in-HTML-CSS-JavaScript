@@ -8,7 +8,7 @@
   - Personal Website: https://ashrafulalam.me
   - Facebook: https://facebook.com/ashrafulalam005
   - Instagram: https://www.instagram.com/ashrafulalam005
-  - LinkedIn: https://www.linkedin.com/in/ashrafulalam005/
+  - LinkedIn: https://www.linkedin.com/in/ashrafulalam005
   - Twitter: https://x.com/ashrafulalam005
 */
 
