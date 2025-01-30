@@ -62,6 +62,8 @@ Whether you are a student learning programming or just love challenges, this app
 
 # Demo Video
 
+<br> 
+
 [![Palindrome Checker Video](https://img.youtube.com/vi/ZJXIjuJwMBw/0.jpg)](https://youtu.be/ZJXIjuJwMBw?si=Wy5oeDxxpKOaN3t3)
 
 
