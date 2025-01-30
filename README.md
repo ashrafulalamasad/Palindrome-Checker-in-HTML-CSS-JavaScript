@@ -44,9 +44,9 @@ Whether you are a student learning programming or just love challenges, this app
 
 <br> 
 
-## Visit the link to play online:
+# Visit the link to play online:
 
-[Play Online](https://ashrafulalamasad.github.io/Palindrome-Checker-in-HTML-CSS-JavaScript/)
+# [Play Online](https://ashrafulalamasad.github.io/Palindrome-Checker-in-HTML-CSS-JavaScript/)
 
 <br> 
 
