@@ -1,0 +1,76 @@
+<!--
+  ABOUT ME:
+  Hi, I'm Ashraful Alam, a passionate web and app developer from Bangladesh. I love making websites, apps, web apps, desktop apps, and cross-platform mobile apps.
+  I specialize in building interactive and user-friendly web applications, and I also enjoy developing mobile apps that work seamlessly across different platforms.
+  This Palindrome Checker app is a fun project that showcases my skills in using HTML, CSS, and JavaScript to create a smooth user experience.
+  If you're interested in my work or want to collaborate, feel free to check out my GitHub or connect with me on the following platforms:
+  - GitHub: https://github.com/ashrafulalamasad
+  - Personal Website: https://ashrafulalam.me
+  - Facebook: https://facebook.com/ashrafulalam005
+  - Instagram: https://www.instagram.com/ashrafulalam005
+  - LinkedIn: https://www.linkedin.com/in/ashrafulalam005/
+  - Twitter: https://x.com/ashrafulalam005
+-->
+
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8" />
+    <title>Ashraf's Palindrome Checker</title>
+    <link rel="stylesheet" href="style.css" />
+    <link
+      rel="stylesheet"
+      href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css"
+    />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  </head>
+  <body>
+    <div class="wrapper">
+      <header>
+        <h1>Ashraf's Palindrome Checker</h1>
+        <p>
+          A palindrome is a word or phrase that reads the same backwards as
+          forwards, e.g. level, refer, 1221.
+        </p>
+      </header>
+
+      <!-- Input and buttons -->
+      <div class="inputs">
+        <input
+          type="text"
+          spellcheck="false"
+          placeholder="Enter text or number"
+        />
+        <button class="clear-input"><i class="fas fa-trash"></i></button>
+      </div>
+      <button class="check-palindrome">Check Palindrome</button>
+
+      <!-- Info message -->
+      <p class="info-txt"></p>
+
+      <!-- History Section -->
+      <div class="history-container">
+        <h2>History</h2>
+        <ul class="history-list"></ul>
+        <button class="clear-history">Clear History</button>
+      </div>
+    </div>
+
+    <!-- Audio for sound effects -->
+    <audio id="palindrome-sound" src="palindrome.mp3.wav"></audio>
+    <audio id="non-palindrome-sound" src="non-palindrome.mp3"></audio>
+
+    <script src="script.js"></script>
+    <footer>
+      <p>
+        A project by :
+        <a
+          href="https://ashrafulalam.me"
+          target="_blank"
+          rel="noopener noreferrer"
+          >Ashraful Alam</a
+        >
+      </p>
+    </footer>
+  </body>
+</html>
