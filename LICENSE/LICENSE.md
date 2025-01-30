@@ -19,18 +19,11 @@ The owner of this software reserves the right to **pursue civil and/or criminal 
 ## 📞 **Contact Information**  
 For permissions, collaborations, or legal inquiries, please contact:  
 - 🌍 Website: [https://ashrafulalam.me](https://ashrafulalam.me)  
-- 📧 Email: [Your Email]  
+- 📧 Email: [ashrafulalamyt@gmail.com]  
 - 🏆 GitHub: [https://github.com/ashrafulalamasad](https://github.com/ashrafulalamasad)  
 - 📌 Facebook: [https://facebook.com/ashrafulalam005](https://facebook.com/ashrafulalam005)  
 - 📷 Instagram: [https://www.instagram.com/ashrafulalam005](https://www.instagram.com/ashrafulalam005)  
 - 💼 LinkedIn: [https://www.linkedin.com/in/ashrafulalam005/](https://www.linkedin.com/in/ashrafulalam005/)  
 - 🐦 Twitter/X: [https://x.com/ashrafulalam005](https://x.com/ashrafulalam005)  
 
-## 🔐 **Additional Protections**  
-To further protect this software, the author has implemented the following security measures:  
-✅ **Code Obfuscation** – The JavaScript code is obfuscated to prevent unauthorized analysis.  
-✅ **Minified Assets** – HTML, CSS, and JavaScript files are minified to reduce readability.  
-✅ **GitHub Restrictions** – Direct downloads and repository cloning are restricted.  
-✅ **Hidden Watermarks** – Copyright watermarks are embedded within the code.  
 
-**By accessing this software, you agree to the terms and conditions outlined in this license.**  
