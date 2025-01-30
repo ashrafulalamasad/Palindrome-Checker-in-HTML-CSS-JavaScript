@@ -1,0 +1,239 @@
+/*
+  ABOUT ME:
+  Hi, I'm Ashraful Alam, a passionate web and app developer from Bangladesh. I love making websites, apps, web apps, desktop apps, and cross-platform mobile apps.
+  I specialize in building interactive and user-friendly web applications, and I also enjoy developing mobile apps that work seamlessly across different platforms.
+  This style sheet is for my Palindrome Checker app, a fun project where I practice creating minimalistic yet functional designs using HTML, CSS, and JavaScript.
+  If you'd like to connect or see more of my work, check out my social media links below:
+  - GitHub: https://github.com/ashrafulalamasad
+  - Personal Website: https://ashrafulalam.me
+  - Facebook: https://facebook.com/ashrafulalam005
+  - Instagram: https://www.instagram.com/ashrafulalam005
+  - LinkedIn: https://www.linkedin.com/in/ashrafulalam005/
+  - Twitter: https://x.com/ashrafulalam005
+*/
+
+/* Import Google Font - Poppins */
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600;700&display=swap");
+
+/* Global Styles */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Poppins", sans-serif;
+}
+
+body {
+  display: flex;
+  padding: 0 10px;
+  align-items: center;
+  justify-content: center;
+  min-height: 100vh;
+  background: #4caf50;
+}
+
+::selection {
+  color: #fff;
+  background: rgba(76, 175, 80, 0.8);
+}
+
+/* Wrapper */
+.wrapper {
+  max-width: 500px;
+  width: 100%;
+  background: #fff;
+  border-radius: 7px;
+  padding: 20px 25px 15px;
+  box-shadow: 0 15px 40px rgba(0, 0, 0, 0.12);
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+header h1 {
+  font-size: 27px;
+  font-weight: 500;
+  text-align: center;
+}
+
+header p {
+  margin-top: 5px;
+  font-size: 18px;
+  color: #474747;
+  text-align: center;
+}
+
+/* Input and Buttons */
+.inputs {
+  position: relative;
+  margin: 20px 0;
+  width: 100%;
+}
+
+.inputs input {
+  width: 100%;
+  height: 50px;
+  font-size: 18px;
+  padding: 0 40px 0 10px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+}
+
+.clear-input {
+  position: absolute;
+  right: 10px;
+  top: 50%;
+  transform: translateY(-50%);
+  background: transparent;
+  border: none;
+  cursor: pointer;
+  font-size: 18px;
+  color: red;
+}
+
+.check-palindrome {
+  width: 100%;
+  height: 50px;
+  background: #4caf50;
+  color: white;
+  border: none;
+  border-radius: 5px;
+  font-size: 18px;
+  cursor: pointer;
+  opacity: 0.6;
+  pointer-events: none;
+  transition: opacity 0.3s;
+}
+
+.check-palindrome.active {
+  opacity: 1;
+  pointer-events: auto;
+}
+
+/* Info Text */
+.info-txt {
+  display: none;
+  font-size: 19px;
+  text-align: center;
+  margin-bottom: 18px;
+}
+
+.info-txt span {
+  color: #4caf50;
+}
+
+.info-txt.glow {
+  animation: glow 1s ease-in-out infinite alternate;
+}
+
+@keyframes glow {
+  from {
+    text-shadow: 0 0 10px #4caf50, 0 0 20px #4caf50, 0 0 30px #4caf50,
+      0 0 40px #4caf50;
+  }
+  to {
+    text-shadow: 0 0 20px #4caf50, 0 0 30px #4caf50, 0 0 40px #4caf50,
+      0 0 50px #4caf50;
+  }
+}
+
+/* History Section */
+.history-container {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.history-container h2 {
+  font-size: 22px;
+  margin-bottom: 10px;
+}
+
+.history-list {
+  list-style: none;
+  width: 100%;
+  overflow-y: auto;
+  max-height: 150px;
+  margin-bottom: 10px;
+}
+
+.history-list li {
+  font-size: 18px;
+  margin-bottom: 5px;
+}
+
+.clear-history {
+  width: 100%;
+  height: 40px;
+  border: none;
+  outline: none;
+  color: #fff;
+  cursor: pointer;
+  font-size: 16px;
+  border-radius: 5px;
+  background: #f44336;
+  transition: background 0.15s ease;
+}
+
+.clear-history:hover {
+  background: #d32f2f;
+}
+
+@media (max-width: 520px) {
+  .wrapper {
+    padding: 17px 20px 10px;
+  }
+
+  header h1 {
+    font-size: 25px;
+  }
+
+  header p {
+    font-size: 16px;
+  }
+
+  .inputs input {
+    height: 54px;
+    font-size: 17px;
+  }
+
+  .inputs button {
+    height: 50px;
+    font-size: 16px;
+    margin-top: 17px;
+  }
+
+  .info-txt {
+    font-size: 18px;
+  }
+
+  .history-container h2 {
+    font-size: 20px;
+  }
+
+  .history-list li {
+    font-size: 16px;
+  }
+}
+
+footer {
+  width: 100%;
+  padding: 10px 0;
+  text-align: center;
+  background-color: #333;
+  color: #fff;
+  position: absolute;
+  bottom: 0;
+  left: 0;
+}
+
+footer a {
+  color: #4caf50;
+  text-decoration: none;
+  font-weight: bold;
+}
+
+footer a:hover {
+  text-decoration: underline;
+}
