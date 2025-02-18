@@ -86,3 +86,4 @@ Whether you are a student learning programming or just love challenges, this app
 # License 📜
 
 ## This project is licensed under my personal license. See the [LICENSE](https://github.com/ashrafulalamasad/Palindrome-Checker-in-HTML-CSS-JavaScript/blob/main/LICENSE/LICENSE.md) file for more details.
+
